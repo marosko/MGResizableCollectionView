@@ -12,8 +12,9 @@ TODO
 * user moveble cells inside a collection view
 * basic collision detection when multiple cells are overlapping (interferred cells are translated or resized, so they not overlapped any more)
 
-### Getting Started
-TODO
+### Example
+* check MGResizableCollectionViewDemo project in this git repository
+
 
 ### Requirements
 * iOS6 and above
