@@ -15,7 +15,6 @@ TODO
 ### Example
 * check MGResizableCollectionViewDemo project in this git repository
 
-
 ### Requirements
 * iOS6 and above
 * ARC
