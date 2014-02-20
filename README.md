@@ -5,7 +5,7 @@
 MGResizableCollectionView extends UICollectionViewLayout and UICollectionViewLayoutCell extension which enables user to resize and to move cells inside a collection view. This extension also includes a basic collision detection between cells.
 
 ### Demo
-TODO
+![image](https://raw2.github.com/marosko/MGResizableCollectionView/master/content/ipad_demo_v0.1.0_01.gif)
 
 ### Features
 * user resizable cells inside a collection view
